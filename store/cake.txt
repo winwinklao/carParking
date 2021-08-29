@@ -1,0 +1,8 @@
+Brownie=50
+Chocolate pudding=90
+Chocolate cookies=250
+Chocolate lava=150
+Chocolate fondue=299
+Chocolate cake ball=80
+Chocolate mousse cake=120
+Chocolate croissant=70

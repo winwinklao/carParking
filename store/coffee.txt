@@ -1,0 +1,8 @@
+Hot chocolate=90
+Iced chocolate=100 
+Choco nutty frappuccino=140
+Milk chocolate=95 
+Classic chocolate=120
+White chocolate mocha=135 
+Signature hot chocolate=150
+Dark chocolate cight=160

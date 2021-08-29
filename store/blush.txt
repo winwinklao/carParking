@@ -1,0 +1,8 @@
+Mineralize Blush=190
+Cheek Pop Blush=300
+Glowplay Blush=350
+Valvet Liquid Blush=189
+Star Blush=199
+Amiga Ombre Blush=200
+Shine Shimmering Blush=149
+Metal Chrome Blush=250
